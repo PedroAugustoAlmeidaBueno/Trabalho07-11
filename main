@@ -1,4 +1,11 @@
-public class Main {
+public class Subtracao {
+
+    // Função que realiza a subtração de dois números inteiros
+    public static int subtrair(int a, int b) {
+        return a - b;
+    }
+
+    // Método principal para testar a função
     public static void main(String[] args) {
         System.out.println("Hello world!");
 algoritmo "SomaSimples"
